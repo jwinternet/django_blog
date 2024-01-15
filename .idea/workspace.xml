@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e59510-8286-4d18-bc15-b7b2f43d61b6" name="Changes" comment="Completed Chapter 7.">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+    <list default="true" id="93e59510-8286-4d18-bc15-b7b2f43d61b6" name="Changes" comment="Completed Chapter 7 (plus Heroku info).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_blog/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +113,7 @@
       <updated>1705257399659</updated>
       <workItem from="1705257402266" duration="5292000" />
       <workItem from="1705271020137" duration="2525000" />
-      <workItem from="1705338537051" duration="7189000" />
+      <workItem from="1705338537051" duration="7715000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <option name="closed" value="true" />
@@ -159,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705345810919</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed Chapter 7 (plus Heroku info).">
+      <option name="closed" value="true" />
+      <created>1705346038889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705346038889</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +176,7 @@
     <MESSAGE value="Completed Chapter 5." />
     <MESSAGE value="Completed Chapter 6." />
     <MESSAGE value="Completed Chapter 7." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Chapter 7." />
+    <MESSAGE value="Completed Chapter 7 (plus Heroku info)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Chapter 7 (plus Heroku info)." />
   </component>
 </project>
